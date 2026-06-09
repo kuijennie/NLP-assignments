@@ -8,5 +8,5 @@
 | Unit Title       | Natural Language Processing                                             |
 | Lecturer         | Michael Nyoro                                                           |
 | Semester         | Year 4, Sem 2                                                           |
-| GitHub           | [kuijennie/art-studio](https://github.com/kuijennie/art-studio)        |
+| GitHub           | [kuijennie/NLP-assignments](https://github.com/kuijennie/NLP-assignments) |
 | Project Document | [NLP Final Report](https://eu.wps.com/cms/docs/d/cbPasdVZRazgm9Zv)    |
